@@ -1,0 +1,139 @@
+"items": [
+    {
+      "name": "dirt",
+      "variation": false
+    },
+    {
+      "name": "grass",
+      "variation": false
+    },
+    {
+      "name": "cobblestone",
+      "variation": false
+    },
+    {
+      "name": "stone",
+      "variation": false
+    },
+    {
+      "name": "sand",
+      "variation": false
+    },
+    {
+      "name": "sandstone",
+      "variation": false
+    },
+    {
+      "name": "oakwood",
+      "variation": false
+    },
+    {
+      "name": "sprucewood",
+      "variation": false
+    },
+    {
+      "name": "birchwood",
+      "variation": false
+    },
+    {
+      "name": "junglewood",
+      "variation": false
+    },
+    {
+      "name": "glass",
+      "variation": false
+    },
+    {
+      "name": "wool",
+      "variation": false
+    },
+    {
+      "name": "cobweb",
+      "variation": false
+    },
+    {
+      "name": "bricks",
+      "variation": false
+    },
+    {
+      "name": "bookshelf",
+      "variation": false
+    },
+    {
+      "name": "moss_stone",
+      "variation": false
+    },
+    {
+      "name": "soulsand",
+      "variation": false
+    },
+    {
+      "name": "netherrack",
+      "variation": false
+    },
+    {
+      "name": "netherbrick",
+      "variation": false
+    },
+    {
+      "name": "redmushroomblock",
+      "variation": false
+    },
+    {
+      "name": "brownmushroomblock",
+      "variation": false
+    },
+    {
+      "name": "ironbars",
+      "variation": false
+    },
+    {
+      "name": "enchantingtable",
+      "variation": false
+    },
+    {
+      "name": "brewingstand",
+      "variation": false
+    },
+    {
+      "name": "endstone",
+      "variation": false
+    },
+    {
+      "name": "redstonelamp",
+      "variation": false
+    },
+    {
+      "name": "beacon",
+      "variation": false
+    },
+    {
+      "name": "quartzblock",
+      "variation": false
+    },
+    {
+      "name": "slime",
+      "variation": false
+    },
+    {
+      "name": "sealantern",
+      "variation": false
+    },
+    {
+      "name": "hayblock",
+      "variation": false
+    },
+    {
+      "name": "packedice",
+      "variation": false
+    },
+    {
+      "name": "purpurblock",
+      "variation": false
+    },
+    {
+      "name": "magmablock",
+      "variation": false
+    }
+  ]
+}
