@@ -1,0 +1,81 @@
+03.09 22:04:26 [Multicraft] Received start command
+03.09 22:04:26 [Multicraft] Loading server properties
+03.09 22:04:26 [Multicraft] Starting server!
+03.09 22:04:26 [Multicraft] Loaded config for "Reforged"
+03.09 22:04:26 [Multicraft] Updating eula.txt file
+03.09 22:04:29 [Server] INFO 2019-09-03 22:04:29,108 main WARN Disabling terminal, you're running in an unsupported environment.
+03.09 22:04:29 [Server] main/INFO [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+03.09 22:04:29 [Server] main/INFO [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+03.09 22:04:29 [Server] main/INFO [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+03.09 22:04:29 [Server] main/INFO [FML]: Forge Mod Loader version 14.23.5.2814 for Minecraft 1.12.2 loading
+03.09 22:04:29 [Server] main/INFO [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_222, running on Linux:amd64:4.19-ovh-xxxx-std-ipv6-64, installed at /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.222.b10-0.el7_6.x86_64/jre
+03.09 22:04:29 [Server] main/INFO [FML]: Searching /./mods for mods
+03.09 22:04:29 [Server] main/WARN [FML]: The coremod CorePlugin (tk.endoffile.antiexploit.CorePlugin) is not signed!
+03.09 22:04:29 [Server] main/INFO [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from spongeforge-1.12.2-2768-7.1.6-RC3616.jar
+03.09 22:04:29 [Server] main/INFO [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+03.09 22:04:29 [Server] main/INFO [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+03.09 22:04:29 [Server] main/INFO [mixin]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/./mods/spongeforge-1.12.2-2768-7.1.6-RC3616.jar Service=LaunchWrapper Env=SERVER
+03.09 22:04:29 [Server] main/WARN [FML]: The coremod SpongeCoremod (org.spongepowered.mod.SpongeCoremod) is not signed!
+03.09 22:04:29 [Server] main/INFO [mixin]: Compatibility level set to JAVA_8
+03.09 22:04:29 [Server] main/INFO [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[DEFAULT]
+03.09 22:04:29 [Server] main/INFO [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[PREINIT]
+03.09 22:04:29 [Server] main/INFO [mixin]: Adding new token provider org.spongepowered.mod.SpongeCoremod$TokenProvider to MixinEnvironment[INIT]
+03.09 22:04:29 [Server] main/INFO [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+03.09 22:04:29 [Server] main/INFO [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+03.09 22:04:29 [Server] main/INFO [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+03.09 22:04:29 [Server] main/INFO [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+03.09 22:04:31 [Server] main/INFO [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+03.09 22:04:31 [Server] main/INFO [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+03.09 22:04:31 [Server] main/INFO [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+03.09 22:04:31 [Server] main/INFO [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+03.09 22:04:31 [Server] main/INFO [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@245a060f
+03.09 22:04:31 [Server] main/INFO [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+03.09 22:04:31 [Server] main/INFO [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+03.09 22:04:31 [Server] main/INFO [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+03.09 22:04:31 [Server] main/INFO [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+03.09 22:04:31 [Server] main/INFO [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+03.09 22:04:33 [Server] main/WARN [mixin]: @Mixin target net.minecraft.server.management.PlayerProfileCache$ProfileEntry is public in mixins.common.core.json:server.management.MixinPlayerProfileCacheEntry and should be specified in value
+03.09 22:04:36 [Server] main/WARN [mixin]: Static binding violation: PRIVATE overwrite method initializeConnectionToPlayer in mixins.common.core.json:server.MixinPlayerList cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+03.09 22:04:36 [Server] main/INFO [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+03.09 22:04:40 [Server] Server thread/INFO Starting minecraft server version 1.12.2
+03.09 22:04:41 [Server] Server thread/INFO [FML]: MinecraftForge v14.23.5.2814 Initialized
+03.09 22:04:41 [Server] Server thread/INFO [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+03.09 22:04:41 [Server] Server thread/INFO [FML]: Replaced 1036 ore ingredients
+03.09 22:04:41 [Server] Server thread/INFO [Sponge]: Found mcmod.info at jar:file:/./mods/spongeforge-1.12.2-2768-7.1.6-RC3616.jar!/mcmod.info
+03.09 22:04:41 [Server] Server thread/INFO [Sponge]: Creating injector in stage 'PRODUCTION'
+03.09 22:04:45 [Server] Server thread/INFO [FML]: Searching /./mods for mods
+03.09 22:04:45 [Server] Server thread/WARN [Sponge]: Plugin 'worldedit' seems to be missing a valid mcmod.info metadata file. This is not a problem when testing plugins, however it is recommended to include one in public plugins.
+03.09 22:04:45 [Server] INFO Please see https://docs.spongepowered.org/master/en/plugin/plugin-meta.html for details.
+03.09 22:04:46 [Server] Server thread/INFO [FML]: Forge Mod Loader has identified 42 mods to load
+03.09 22:04:46 [Server] Server thread/WARN [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+03.09 22:04:46 [Server] Server thread/WARN [FML]: Missing English translation for spongeapi: assets/spongeapi/lang/en_us.lang
+03.09 22:04:46 [Server] Server thread/WARN [FML]: Missing English translation for spongeforge: assets/spongeforge/lang/en_us.lang
+03.09 22:04:46 [Server] Server thread/WARN [FML]: Missing English translation for agp: assets/agp/lang/en_us.lang
+03.09 22:04:46 [Server] Server thread/WARN [FML]: Missing English translation for aurionsvotelistener: assets/aurionsvotelistener/lang/en_us.lang
+03.09 22:04:46 [Server] Server thread/WARN [FML]: Missing English translation for broadcast: assets/broadcast/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for buycraft: assets/buycraft/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for catclearlag: assets/catclearlag/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for pixelmoneconomybridge: assets/pixelmoneconomybridge/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for eggfixer: assets/eggfixer/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for fastasyncworldedit: assets/fastasyncworldedit/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for griefprevention: assets/griefprevention/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for gts_generations: assets/gts_generations/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for gts: assets/gts/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for gts_reforged: assets/gts_reforged/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for holograms: assets/holograms/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for huskycrates: assets/huskycrates/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for huskyui: assets/huskyui/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for langswitch: assets/langswitch/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for legendaryplus: assets/legendaryplus/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for luckperms: assets/luckperms/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for magibridge: assets/magibridge/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for megamenus: assets/megamenus/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for nucleus: assets/nucleus/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for nuvotifier: assets/nuvotifier/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for oldselectionalgorithm: assets/oldselectionalgorithm/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for pixelevent: assets/pixelevent/lang/en_us.lang
+03.09 22:04:47 [Server] Server thread/WARN [FML]: Missing English translation for pixelextras: assets/pixelextras/lang/en_us.lang
+03.09 22:04:47 [Multicraft] Server shut down (starting)
+03.09 22:04:47 [Multicraft] Not restarting crashed server.
+03.09 22:04:47 [Multicraft] Server stopped
